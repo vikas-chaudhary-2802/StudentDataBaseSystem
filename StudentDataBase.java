@@ -32,7 +32,7 @@ class Student {
             System.out.println("1.Add Student");
             System.out.println("2.View Students");
             System.out.println("3.Search Students");
-            System.out.println("4.Calculate Average Marks");
+            System.out.println("Average mark calculator");
             System.out.println("5.Exit");
             System.out.print("Enter your Choice :");
             int n= sc.nextInt();
