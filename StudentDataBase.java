@@ -61,7 +61,7 @@ class Student {
                 break;
 
                 case 3 :
-                System.out.print("Enter Your Roll No. : ");
+                System.out.print("Enter Your Roll No. : 27");
                 int m= sc.nextInt();
                 map.get(m).view();
                 break;
@@ -72,7 +72,7 @@ class Student {
                 for(Student i: map.values()){
                     totalMarks=totalMarks+i.marks;
                 }
-                System.out.println("Average Marks :"+ totalMarks/totalstd);
+                System.out.println("Average Marks : 100"+ totalMarks/totalstd);
                 break;
 
                 case 5: 
