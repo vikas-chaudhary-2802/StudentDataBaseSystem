@@ -7,14 +7,14 @@ View student details
 Update student information
 Delete student records
 
-Installation
+1) Installation
 Clone this repository:
 git clone https://github.com/vikas-chaudhary-2802/StudentDataBaseSystem.git
 
-Compile the Java source files:
+2) Compile the Java source files:
 javac StudentDataBase.java
 
-Run the application:
+3) Run the application:
 java StudentDataBase
 
 Usage
